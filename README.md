@@ -1,4 +1,4 @@
-# PayoneerTest 🚀
+# 🚀 PayoneerTest
 
 # :scroll: Description
 This test solution is implemented with Mvvm architecture using Java
@@ -13,7 +13,7 @@ This test makes use of:
 - Glide
 - retrofit
 
-### What I could have done better in attempting this test 🤔
+### 🤔 What I could have done better in attempting this test 
 - Setup and implement MVVM properly
 - Write Tests for my implementations
 
